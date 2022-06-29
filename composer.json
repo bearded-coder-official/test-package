@@ -1,0 +1,8 @@
+{
+  "name": "bearded-coder-official/test-package",
+  "autoload": {
+    "psr-4": {
+      "TestOrg\\TestPackage\\": "./src"
+    }
+  }
+}
