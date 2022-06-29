@@ -6,6 +6,6 @@ class TestClass
 {
     public static function exec()
     {
-        return (2 + 2) * 10;
+        return (2 + 2) * 100;
     }
 }
